@@ -1,2 +1,1 @@
-# c-37
-NFINITE RUNNER GAME
+# project-37
